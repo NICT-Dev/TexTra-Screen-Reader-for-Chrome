@@ -2,7 +2,7 @@
 
 **TexTra Screen Reader for Chrome**は<br>
 ブラウザアプリChromeの拡張「TexTra Chrome」に、<br>
-Windows上のテキストをOCRで取得する機能を追加するアプリケーションです。<br>
+OCRでWindows上のテキストを取得する機能を追加するアプリケーションです。<br>
 
 **TexTra Screen Reader for Chrome** is an application<br>
 that works with the Chrome extension "TexTra Chrome"<br>
@@ -26,6 +26,7 @@ https://github.com/NICT-Dev/TexTra-Screen-Reader-for-Chrome/releases<br>
 インストール後、<br>
 デスクトップにできたショートカットからアプリを１度実行してください。<br>
 このアプリをChromeから呼び出すための設定を行います。<br>
+（設定後はショートカットを削除しても問題ありません。）<br>
 ![](docs/ja/images/image007.png)<br> 
 
 ヘルプ<br>
@@ -39,6 +40,7 @@ https://github.com/NICT-Dev/TexTra-Screen-Reader-for-Chrome/releases<br>
 After installation, <br>
 please run the application once from the shortcut created on the desktop.<br>
 This will perform the required setup for launching the application from Chrome.<br>
+(You can delete the shortcut after the setup is completed.)<br>
 ![](docs/en/images/image007.png)<br> 
 
 Help<br>
@@ -57,8 +59,8 @@ TexTra Chrome (browser extensions for Chrome and Edge)<br>
 https://github.com/NICT-Dev/TexTra-Chrome
 
 ------
-みんなの自動翻訳 - TexTra Screen Reader (古い内容が含まれています。)<br>
-Min'na no Jido Hon'yaku - TexTra Screen Reader (The information on the linked page is outdated.)<br>
-https://mt-auto-minhon-mlt.ucri.jgn-x.jp/content/tool/textrascreenreader/<br>
+みんなの自動翻訳<br>
+Min'na no Jido Hon'yaku<br>
+https://mt-auto-minhon-mlt.ucri.jgn-x.jp/<br>
 
 <br><br><br><br><br><br><br><br>
