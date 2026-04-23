@@ -53,10 +53,12 @@ https://nict-dev.github.io/TexTra-Screen-Reader-for-Chrome/en/メイン.html
 64ビット版 Windows 10 または Windows 11<br>
 TexTra Chrome (ブラウザアプリChrome、Edge用の拡張)<br>
 https://github.com/NICT-Dev/TexTra-Chrome
+https://chromewebstore.google.com/detail/textra/mhnnkoiolmjhfkcjppolhbmobkbjfbdi
 
 Windows 10 (64‑bit) or Windows 11 (64‑bit)<br>
 TexTra Chrome (browser extensions for Chrome and Edge)<br>
 https://github.com/NICT-Dev/TexTra-Chrome
+https://chromewebstore.google.com/detail/textra/mhnnkoiolmjhfkcjppolhbmobkbjfbdi
 
 ------
 みんなの自動翻訳<br>
